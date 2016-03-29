@@ -1,0 +1,11 @@
+c:\users\brian\documents\visual studio 2015\Projects\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\brian\Documents\Visual Studio 2015\Projects\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\brian\Documents\Visual Studio 2015\Projects\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\brian\Documents\Visual Studio 2015\Projects\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\brian\Documents\Visual Studio 2015\Projects\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\brian\Documents\Visual Studio 2015\Projects\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\obj\Debug\WindowsPhoneCellHeightIssue.ListViewSample.xaml.g.cs
+C:\Users\brian\Documents\Visual Studio 2015\Projects\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\obj\Debug\WindowsPhoneCellHeightIssue.dll
+C:\Users\brian\Documents\Visual Studio 2015\Projects\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\obj\Debug\WindowsPhoneCellHeightIssue.pdb
+C:\Users\brian\Documents\Visual Studio 2015\Projects\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\bin\Debug\WindowsPhoneCellHeightIssue.dll
+C:\Users\brian\Documents\Visual Studio 2015\Projects\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\bin\Debug\WindowsPhoneCellHeightIssue.pdb
+C:\Users\brian\Documents\Visual Studio 2015\Projects\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\WindowsPhoneCellHeightIssue\obj\Debug\WindowsPhoneCellHeightIssue.csprojResolveAssemblyReference.cache

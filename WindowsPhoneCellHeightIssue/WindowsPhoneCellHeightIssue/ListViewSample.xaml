@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WindowsPhoneCellHeightIssue.ListViewSample">
+
+    <Grid x:Name="MainGrid"
+          BackgroundColor="#252F38"
+          RowSpacing="0"
+          ColumnSpacing="0"
+          Padding="0"
+          VerticalOptions="Fill"
+          HorizontalOptions="Fill">
+
+      <Grid.RowDefinitions>
+        <RowDefinition Height="Auto" />
+        <RowDefinition Height="*" />
+      </Grid.RowDefinitions>
+
+      <ContentView x:Name="NavContent"
+                  Padding="0"
+                  Grid.Row="0">
+        <Button x:Name="ShowModal" Text="Modal" TextColor="Blue" BackgroundColor="Yellow" />
+      </ContentView>
+
+
+      <ListView x:Name="MyList"
+                ItemsSource="{Binding Cards}"
+                HasUnevenRows="True"
+                BackgroundColor="White"
+                VerticalOptions="Fill"
+                Grid.Row="1">
+
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ViewCell>
+              <ViewCell.View>
+
+                <Grid x:Name="CardWrapper" Padding="0" RowSpacing="0">
+
+                  <Grid.RowDefinitions>
+                    <RowDefinition Height="200" />
+                  </Grid.RowDefinitions>
+
+                  <ContentView Padding="0"
+                                BackgroundColor="Blue">
+                    <Label Text="Hello" HorizontalOptions="Center" VerticalOptions="Center" />
+                  </ContentView>
+
+                </Grid>
+                  
+              </ViewCell.View>
+            </ViewCell>
+                    
+          </DataTemplate>
+        </ListView.ItemTemplate>
+
+      </ListView>
+      
+    </Grid>
+
+</ContentPage>
